@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Creative Dystopia
 
-You can use the [editor on GitHub](https://github.com/mesina007/creativedystopia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 20 February 2020
+Trying out GitHub pages, let's give it a go. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 18 January 2020
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesina007/creativedystopia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm not completely sure why, but today I felt compelled to buy the domain name creativedystopia.com.  So hello to you!  I've had a lot of ideas throughout the years but I'm not much of a writer.  I don't do journals, I don't write blogs, but I guess in a sense this might become a blog.  I'm not sure what brought you to this page, but I'm glad you're here.  Let's see what happens :-).
